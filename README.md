@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**Laura-zs/Laura-zs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Laura, a 20-year-old Information Systems student currently in my second semester.  
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 Information Systems student
+- 💻 Interested in Web Development
+- ☕ Learning Java and Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Interests
+- HTML, CSS, JavaScript
+- Java
+- Python
+- React
+- Web Development
+- Game-related technology
+
+## 🌱 Currently
+I’m looking for my first opportunity in the IT field, where I can grow professionally, gain experience, and contribute with dedication and responsibility.
+
+## 📫 Contact
+- LinkedIn: www.linkedin.com/in/laurazoffoli
+- Email: laurazoffoli06@gmail.com
